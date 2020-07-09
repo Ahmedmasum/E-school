@@ -1,0 +1,207 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0 auto;
+}
+.main-div {
+  background-color: #f0fff0;
+  width: 100%;
+  height: 550px;
+  margin-bottom: 40px;
+}
+.container {
+  margin-bottom: 70px;
+}
+
+.logo-img {
+  width: 35%;
+}
+.illustratio-img {
+  width: 85%;
+}
+.nav-right-part {
+  margin-left: 40px;
+  font-size: 18px;
+}
+.sign-in-link {
+  background-color: #21b573;
+  padding: 0px 20px;
+  border-radius: 20px;
+}
+.text-dark {
+  font-size: 17px;
+}
+.text-white {
+  font-size: 17px;
+}
+.get-started-left-content,
+h6,
+h1,
+p,
+button {
+  margin-bottom: 25px;
+}
+.get-started-left-content h1 {
+  font-size: 52px;
+  font-weight: bold;
+}
+.get-started-left-content h1 span {
+  color: #21b573;
+}
+.get-started-left-content button {
+  border: none;
+  background-color: #21b573;
+  padding: 10px 30px;
+  border-radius: 20px;
+  color: white;
+}
+/* CSS OF LEARN ANYTHING SECTION */
+
+.topic {
+  text-align: center;
+  background-color: #f8fffb;
+  padding: 50px;
+  border-radius: 5px;
+}
+.icon-book {
+  width: 30%;
+  margin-bottom: 20px;
+}
+.topic h3 {
+  font-size: 20px;
+  font-weight: bold;
+}
+.topic p {
+  font-size: 15px;
+}
+.icon-student-shadow {
+  text-align: center;
+  border: none;
+  box-shadow: 10px 10px 20px rgb(206, 206, 206);
+  padding: 50px;
+  border-radius: 5px;
+}
+.icon-student-shadow h3 {
+  font-size: 20px;
+  font-weight: bold;
+}
+.icon-student-shadow p {
+  font-size: 15px;
+}
+.icon-student {
+  width: 37%;
+  margin-bottom: 20px;
+}
+.icon-test {
+  width: 37%;
+  margin-bottom: 20px;
+}
+.icon-students {
+  width: 36%;
+  margin-bottom: 20px;
+}
+
+/* COURSES SECTION*/
+
+.courses-img-div {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+}
+.card {
+  border-radius: 10px;
+  height: 450px;
+  border: none;
+  box-shadow: 10px 10px 20px rgb(235, 235, 235);
+}
+
+.buy-course-btn {
+  border: none;
+  background-color: #21b573;
+  padding: 8px 25px;
+  border-radius: 20px;
+  color: white;
+  font-size: 15px;
+}
+.icon {
+  width: 22.5px;
+  margin-bottom: 10px;
+}
+.content {
+  margin-left: 5px;
+  font-weight: bold;
+  color: rgb(104, 104, 104);
+}
+#people-margin {
+  margin-left: 35px;
+}
+
+/* TESTIMONIAL SECTION*/
+
+.testimonial-row-div {
+  margin-right: 100px;
+}
+.testimonial-img {
+  width: 120px;
+  margin-left: 170px;
+  border: 1px solid rgb(214, 214, 214);
+  margin-bottom: 80px;
+}
+.testimonial-text {
+  margin-top: 20px;
+  color: rgb(102, 102, 102);
+  font-weight: bold;
+}
+
+/*FOOTER SECTION*/
+
+.footer-div {
+  background-color: #282531;
+  height: 325px;
+}
+
+.text-1 {
+  color: white;
+  font-size: 15px;
+  margin-top: 70px;
+}
+.text-2 {
+  color: white;
+  font-size: 15px;
+  margin-top: 70px;
+  margin-left: 100px;
+  font-weight: bold;
+}
+.text-3 {
+  color: white;
+  font-size: 15px;
+  margin-top: 70px;
+  margin-left: 50px;
+  font-weight: bold;
+}
+.text-4 {
+  color: white;
+  font-size: 15px;
+  margin-top: 70px;
+  font-weight: bold;
+}
+
+.text-under-text-2 {
+  color: rgb(206, 206, 206);
+  font-size: 15px;
+  margin-left: 100px;
+  margin-top: 20px;
+  line-height: 2px;
+}
+.text-under-text-3 {
+  color: rgb(206, 206, 206);
+  font-size: 15px;
+  margin-left: 50px;
+  margin-top: 20px;
+  line-height: 2px;
+}
+.text-under-text-4 {
+  color: rgb(206, 206, 206);
+  font-size: 15px;
+  margin-top: 20px;
+  line-height: 2px;
+}
